@@ -1,0 +1,1297 @@
+repo_name: AJ-7885/AJ-Reactive-Resume
+report_id: e17f2fe898c39629f2877ed9453e2612
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-21T17:21:37+00:00'
+requested_by: AmruthPillai
+provider: github
+branch: main
+detected_tools_count: 95
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/tools/prisma/migrations/20231121234455_initialize_tables/migration.sql
+  detection_source: tools/prisma/migrations/20231121234455_initialize_tables/migration.sql
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-22 11:11:15.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-03 07:58:08.000000000 Z
+- name: NestJS
+  description: A progressive Node.js framework for building efficient and scalable
+    server-side applications by @kammysliwiec.
+  website_url: nestjs.com
+  version: 10.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/8747/4zsOyxko_400x400.jpg
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-17 07:31:12.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.22.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 7.8.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-03 07:58:08.000000000 Z
+- name: Zustand
+  description: Bear necessities for state management in React
+  website_url: https://github.com/react-spring/zustand
+  version: 4.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Monitoring for Analytics
+  image_url: https://img.stackshare.io/service/11559/zustand.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-10 09:00:33.000000000 Z
+- name: Minio
+  description: AWS S3 open source alternative written in Go
+  website_url: https://minio.io/
+  version: 7.1.3
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: Prisma
+  description: Modern Database Access for TypeScript &amp; Node.js
+  website_url: https://www.prisma.io/
+  version: 5.12.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.24.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/.github/workflows/lint-build.yml
+  detection_source: ".github/workflows/lint-build.yml"
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-22 22:24:19.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 3.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-10 09:00:33.000000000 Z
+- name: Puppeteer
+  description: Headless Chrome Node API
+  website_url: https://github.com/GoogleChrome/puppeteer
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7553/puppeteer.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: Sentry
+  description: See performance issues, fix errors faster, and optimize code health.
+  website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
+  open_source: true
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-03 07:58:08.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/apps/server/webpack.config.js
+  detection_source: apps/server/webpack.config.js
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 24.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-10 09:00:33.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: Base
+  description: All-in-one sales and customer management platform
+  website_url: https://getbase.com/
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: CRM
+  image_url: https://img.stackshare.io/service/3633/ZBMmmvP1_400x400.jpg
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-07 15:37:16.000000000 Z
+- name: Nodemailer
+  description: A module for Node.js applications to allow email sending
+  website_url: http://www.nodemailer.com/
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/2862/qr2-jCLr.jpg
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-25 14:08:39.000000000 Z
+- name: OpenAI
+  description: Creating safe AGI that benefits all
+  website_url: https://openai.com/
+  version: 4.33.0
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: Passport
+  description: Simple, unobtrusive authentication for Node.js
+  website_url: http://passportjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-22 11:11:15.000000000 Z
+- name: Zod
+  description: TypeScript-first schema validation
+  website_url: https://zod.dev/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/48521/default_eea961e4c374e68a1c7eb5bbc9e4a39920890342.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/libs/parser/package.json
+  detection_source: libs/parser/package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 1.6.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-22 11:11:15.000000000 Z
+- name: eslint-plugin-tailwindcss
+  description: Rules enforcing best practices and consistency using Tailwind CSS.
+  website_url: https://www.npmjs.com/package/eslint-plugin-tailwindcss
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/48327/default_e1e547104832f8e187369b19e928e17a8be5020b.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: lodash.set
+  description: The lodash method `_.set` exported as a module
+  package_url: https://www.npmjs.com/lodash.set
+  version: 4.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16998/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-07 15:37:16.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in lodash
+    cve_id: CVE-2020-8203
+    cve_url: https://github.com/advisories/GHSA-p6mc-m468-83gw
+    detected_date: Jan 25
+    severity: high
+    first_patched:
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.24.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@nestjs/common"
+  description: Nest - modern
+  package_url: https://www.npmjs.com/@nestjs/common
+  version: 10.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16950/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@nestjs/core"
+  description: Nest - modern, fast, powerful node.js web framework
+  package_url: https://www.npmjs.com/@nestjs/core
+  version: 10.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17223/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@nestjs/testing"
+  description: Nest - modern
+  package_url: https://www.npmjs.com/@nestjs/testing
+  version: 10.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17855/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@prisma/client"
+  description: Prisma Client is an auto-generated, type-safe and modern JavaScript/TypeScript
+    ORM for Node.js that's tailored to your data
+  package_url: https://www.npmjs.com/@prisma/client
+  version: 5.12.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@sentry/node"
+  description: Offical Sentry SDK for Node.js
+  package_url: https://www.npmjs.com/@sentry/node
+  version: 7.109.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18428/default_9499465ee49aaffadf126149b962e9838bc4a993.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@tailwindcss/typography"
+  description: A Tailwind CSS plugin for automatically styling plain HTML content
+    with beautiful typographic defaults
+  package_url: https://www.npmjs.com/@tailwindcss/typography
+  version: 0.5.12
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-03 07:58:08.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 14.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@types/cookie-parser"
+  description: TypeScript definitions for cookie-parser
+  package_url: https://www.npmjs.com/@types/cookie-parser
+  version: 1.4.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18195/default_5b09e8832af55b8bf88554d45d4eb65653e6ac76.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 29.5.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@types/lodash.get"
+  description: TypeScript definitions for lodash.get
+  package_url: https://www.npmjs.com/@types/lodash.get
+  version: 4.4.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18297/default_678ce8b19e8cee1dde03f165f62525a2c9d0c034.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.12.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@types/passport"
+  description: TypeScript definitions for Passport
+  package_url: https://www.npmjs.com/@types/passport
+  version: 1.0.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18669/default_3ed0a361a097c631ee66d5aace42497748694521.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.2.75
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.2.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 7.6.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: babel-plugin-macros
+  description: Allows you to build compile-time libraries
+  package_url: https://www.npmjs.com/babel-plugin-macros
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17191/default_fbe883dfc6d978f82179fa11bdf634af1b6751fa.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: bcryptjs
+  description: Optimized bcrypt in plain JavaScript with zero dependencies
+  package_url: https://www.npmjs.com/bcryptjs
+  version: 2.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16857/default_627f05e6a07ce29fc9f119417270f38e8aa5c5e2.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-07 15:37:16.000000000 Z
+- name: cookie-parser
+  description: Parse HTTP request cookies
+  package_url: https://www.npmjs.com/cookie-parser
+  version: 1.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16136/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: dayjs
+  description: 2KB immutable date time library alternative to Moment.js with the same
+    modern API
+  package_url: https://www.npmjs.com/dayjs
+  version: 1.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/libs/utils/package.json
+  detection_source: libs/utils/package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: deepmerge
+  description: A library for deep
+  package_url: https://www.npmjs.com/deepmerge
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16179/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-22 11:11:15.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 9.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.29.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 5.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.34.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: file-saver
+  description: An HTML5 saveAs
+  package_url: https://www.npmjs.com/file-saver
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16795/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-07 15:37:16.000000000 Z
+- name: fuzzy
+  description: Small, standalone fuzzy search / fuzzy filter
+  package_url: https://www.npmjs.com/fuzzy
+  version: 0.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18189/default_13969c5d2859d7d510fdef0e78c273ae025e9cc4.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-24 02:53:09.000000000 Z
+- name: helmet
+  description: Help secure Express/Connect apps with various HTTP headers
+  package_url: https://www.npmjs.com/helmet
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16584/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-01-19 09:04:23.000000000 Z
+- name: immer
+  description: Create your next immutable state by mutating the current one
+  package_url: https://www.npmjs.com/immer
+  version: 10.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16937/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-10 09:00:33.000000000 Z
+- name: ioredis
+  description: A robust
+  package_url: https://www.npmjs.com/ioredis
+  version: 5.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16522/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-21 08:44:37.000000000 Z
+- name: jszip
+  description: Create
+  package_url: https://www.npmjs.com/jszip
+  version: 3.10.1
+  license: MIT,GPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16628/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/libs/parser/package.json
+  detection_source: libs/parser/package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: lodash.debounce
+  description: The lodash method `_.debounce` exported as a module
+  package_url: https://www.npmjs.com/lodash.debounce
+  version: 4.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16481/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-07 15:37:16.000000000 Z
+- name: lodash.get
+  description: The lodash method `_.get` exported as a module
+  package_url: https://www.npmjs.com/lodash.get
+  version: 4.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16377/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-07 15:37:16.000000000 Z
+- name: openai
+  description: The official TypeScript library for the OpenAI API
+  package_url: https://www.npmjs.com/openai
+  version: 4.33.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: papaparse
+  description: Fast and powerful CSV parser for the browser that supports web workers
+    and streaming large files
+  package_url: https://www.npmjs.com/papaparse
+  version: 5.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17945/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/libs/utils/package.json
+  detection_source: libs/utils/package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: passport-jwt
+  description: Passport authentication strategy using JSON Web Tokens
+  package_url: https://www.npmjs.com/passport-jwt
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18238/default_d0bdfc944c04fa7e84198f9a2784cc716a3d91a3.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-22 11:11:15.000000000 Z
+- name: passport-local
+  description: Local username and password authentication strategy for Passport
+  package_url: https://www.npmjs.com/passport-local
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16747/default_adce7cef6d131ffc31466624541462e4db9534d4.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-03 07:58:08.000000000 Z
+- name: postcss-import
+  description: PostCSS plugin to import CSS files
+  package_url: https://www.npmjs.com/postcss-import
+  version: 16.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16086/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-22 11:11:15.000000000 Z
+- name: postcss-nested
+  description: PostCSS plugin to unwrap nested rules like how Sass does it
+  package_url: https://www.npmjs.com/postcss-nested
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16575/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: prisma
+  description: Prisma is an open-source database toolkit
+  package_url: https://www.npmjs.com/prisma
+  version: 5.12.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.22.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-03 07:58:08.000000000 Z
+- name: sharp
+  description: High performance Node.js image processing
+  package_url: https://www.npmjs.com/sharp
+  version: 0.33.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16806/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-25 14:08:39.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-03 07:58:08.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 29.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 2.6.2
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2023-11-05 11:31:42.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 5.2.8
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-04-10 13:43:56.000000000 Z
+- name: webfontloader
+  description: Web Font Loader gives you added control when using linked fonts via
+    @font-face
+  package_url: https://www.npmjs.com/webfontloader
+  version: 1.6.28
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18680/default_796854034d0fb722b81b1d885cb3ab88a613d5fb.png
+  detection_source_url: https://github.com/AJ-7885/AJ-Reactive-Resume/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Amruth Pillai
+  last_updated_on: 2024-03-10 09:00:33.000000000 Z
